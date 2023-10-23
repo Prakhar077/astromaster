@@ -1,2 +1,2 @@
 # astromaster
-A website for astrology
+desc
